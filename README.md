@@ -11,7 +11,7 @@ Fast, scalable and powerful Node.js RESTful API
 ## Tours-api Documenation
 ### https://documenter.getpostman.com/view/8427436/Szzn5Fnw?version=latest
 
-## (More) To create tours-api I used the following: 
+## (More) To create tours-api I used: 
 <ul>
     <li>Node.js: event loop, blocking vs non-blocking code, event-driven architecture, streams, modules, etc.</li>
     <li>Fundamentals of Express (Node.js framework): routing, middleware, sending responses, etc.</li>
