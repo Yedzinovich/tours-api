@@ -1,5 +1,5 @@
 # Tours-Api
-Fast, scalable and powerful Node.js RESTful API
+Fast, scalable and powerful Node.js REST API
 
 ## Built With 
 <ul>
