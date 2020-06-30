@@ -1,4 +1,4 @@
-# tours-api
+# Tours-Api
 Fast, scalable and powerful Node.js RESTful API
 
 ## Built With 
@@ -8,5 +8,5 @@ Fast, scalable and powerful Node.js RESTful API
     <li>MongoDB/Mongoose</li>
 </ul>
 
-## tours-api documenation and more 
-#### https://documenter.getpostman.com/view/8427436/Szzn5Fnw?version=latest
+## Tours-api Documenation and More 
+### https://documenter.getpostman.com/view/8427436/Szzn5Fnw?version=latest
