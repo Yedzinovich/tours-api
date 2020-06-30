@@ -8,5 +8,15 @@ Fast, scalable and powerful Node.js RESTful API
     <li>MongoDB/Mongoose</li>
 </ul>
 
-## Tours-api Documenation and More 
+## Tours-api Documenation
 ### https://documenter.getpostman.com/view/8427436/Szzn5Fnw?version=latest
+
+## (More) To create tours-api I used the following: 
+<ul>
+    <li>Node.js: event loop, blocking vs non-blocking code, event-driven architecture, streams, modules, etc.</li>
+    <li>Fundamentals of Express (Node.js framework): routing, middleware, sending responses, etc.</li>
+    <li>RESTful API design and development with advanced features: filtering, sorting, aliasing, pagination</li>
+    <li>CRUD operations with MongoDB database locally and on the Atlas platform (in the cloud)</li>
+    <li>MVC (Model-View-Controller) architecture</li>
+    <li>Authentication with JWT: user sign up, log in, password reset, secure cookies, etc.</li>
+</ul>
