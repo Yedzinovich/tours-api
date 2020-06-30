@@ -20,7 +20,6 @@ exports.getTour = catchAsync(async (req, res, next) => {
     path: 'reviews',
     fields: 'review rating user',
   });
-
   // 2) Build template
 
   // 3) Render template using the data from step 1
@@ -29,3 +28,9 @@ exports.getTour = catchAsync(async (req, res, next) => {
     tour: tour,
   });
 });
+
+exports.getLoginForm = (req, res) => {
+  res.status(200).render('login', {
+    title: 'Log into your account',
+  });
+};
